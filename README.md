@@ -1,2 +1,3 @@
 # se-webapp-backend
-Backend repository for Software Engineering web application
+
+To start, execute 'npm run dev'
